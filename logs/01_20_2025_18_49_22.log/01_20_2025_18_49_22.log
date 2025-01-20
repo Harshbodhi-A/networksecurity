@@ -1,0 +1,6 @@
+[2025-01-20 18:49:29,047] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-01-20 18:49:29,060] 107 dagshub - INFO - Accessing as Harshbodhi-A
+[2025-01-20 18:49:29,975] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Harshbodhi-A/networksecurity "HTTP/1.1 200 OK"
+[2025-01-20 18:49:30,680] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-01-20 18:49:30,680] 107 dagshub - INFO - Initialized MLflow to track repo "Harshbodhi-A/networksecurity"
+[2025-01-20 18:49:30,686] 107 dagshub - INFO - Repository Harshbodhi-A/networksecurity initialized!
